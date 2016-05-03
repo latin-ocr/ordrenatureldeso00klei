@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordrenatureldeso00klei_0007.png"; bbox 0 0 1757 3074; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 30 946 1443 1112">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 30 946 1443 1112">
+     <span class='ocr_line' id='line_1_1' title="bbox 30 946 1443 1112; baseline 0.001 -60"><span class='ocrx_word' id='word_1_1' title='bbox 30 946 1443 1112; x_wconf 75' lang='lat' dir='ltr'><em>OBSERVATIONS</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 607 1125 835 1180">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 607 1125 835 1180">
+     <span class='ocr_line' id='line_1_2' title="bbox 607 1125 835 1180; baseline 0.004 -1"><span class='ocrx_word' id='word_1_2' title='bbox 607 1125 835 1180; x_wconf 87' lang='lat' dir='ltr'><em>SUR</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 59 1251 1419 1497">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 59 1251 1419 1485">
+     <span class='ocr_line' id='line_1_3' title="bbox 59 1251 1419 1414; baseline 0.004 -81.019"><span class='ocrx_word' id='word_1_3' title='bbox 59 1215 879 1338; x_wconf 77' lang='lat' dir='ltr'><em>LESOURSINS</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 886 1251 1419 1414; x_wconf 84' lang='lat' dir='ltr'><em>DEMER</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 244 1396 1230 1497; baseline 0 -14"><span class='ocrx_word' id='word_1_5' title='bbox 244 1415 298 1483; x_wconf 79' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_6' title='bbox 343 1415 400 1482; x_wconf 86' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_7' title='bbox 493 1415 539 1481; x_wconf 78' lang='lat' dir='ltr'>F</span> <span class='ocrx_word' id='word_1_8' title='bbox 584 1396 675 1485; x_wconf 68' lang='grc' dir='ltr'><em>ε’)</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 698 1417 735 1483; x_wconf 85' lang='lat' dir='ltr'><strong><em>S</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 782 1415 845 1482; x_wconf 74' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_11' title='bbox 865 1415 920 1483; x_wconf 91' lang='lat'>1</span> <span class='ocrx_word' id='word_1_12' title='bbox 939 1411 996 1484; x_wconf 95' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_13' title='bbox 1041 1410 1107 1497; x_wconf 75' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1137 1411 1230 1483; x_wconf 82' lang='lat' dir='ltr'>s</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

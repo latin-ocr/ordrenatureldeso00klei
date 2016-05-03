@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordrenatureldeso00klei_0257.png"; bbox 0 0 1798 3136; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1433 99 1618 134">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1433 99 1618 134">
+     <span class='ocr_line' id='line_1_1' title="bbox 1433 99 1618 134; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1433 99 1530 134; x_wconf 40' lang='lat' dir='ltr'><em>Tala</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1554 107 1618 134; x_wconf 79' lang='lat' dir='ltr'><em>m.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 7 176 1588 3057">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 7 176 1588 3057">
+     <span class='ocr_line' id='line_1_2' title="bbox 7 176 1588 3057; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 7 176 1588 3057; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 10 3070 1079 3122">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 10 3070 1079 3122">
+     <span class='ocr_line' id='line_1_3' title="bbox 10 3070 1079 3122; baseline -0.008 -12"><span class='ocrx_word' id='word_1_4' title='bbox 10 3070 179 3111; x_wconf 52' lang='grc' dir='ltr'><em>λΐοηηειι·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 188 3090 233 3107; x_wconf 68' lang='lat' dir='ltr'><em>vd</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 252 3070 369 3122; x_wconf 50' lang='lat' dir='ltr'><em>sectis)</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 383 3102 388 3107; x_wconf 87' lang='lat'>.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1074 3092 1079 3096; x_wconf 87' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
